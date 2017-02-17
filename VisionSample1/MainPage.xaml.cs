@@ -34,7 +34,7 @@ namespace VisionSample1
         public MainPage()
         {
             //set your key here
-            _subscriptionKey = "15ef53c9c4ae4748baacbbced200cfe4";
+            _subscriptionKey = "개인 Key 입력";
             this.InitializeComponent();
         }
 
